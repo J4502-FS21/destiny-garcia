@@ -3,4 +3,31 @@ body {
   text-align: center;
   margin: 0;
   padding: 0;
-  font-family: "Helvetica", "Arial", sans-serif;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2 {
+  font-family: 'Bebas Neue', cursive;
+}
+
+a{
+  font-family: 'Crimson Text', serif;
+  text-decoration: none;
+  color: green;
+  text-transform: uppercase;
+  font-style: oblique;
+}
+
+ul{
+  list-style-type: none;
+}
+
+img{
+  width: 70%;
+
+ }
+ section{
+   background-color: white;
+   padding: 20px;
+   margin: 20px 0px;
+ }
