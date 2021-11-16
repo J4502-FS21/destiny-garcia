@@ -1,5 +1,5 @@
 body {
-  background: #c0c8d1;
+  background: #F9EBEA;
   text-align: center;
   margin: 0;
   padding: 0;
@@ -8,12 +8,13 @@ body {
 
 h1, h2 {
   font-family: 'Bebas Neue', cursive;
+  text-align: center;
 }
 
 a{
   font-family: 'Crimson Text', serif;
   text-decoration: none;
-  color: green;
+  color: Purple;
   text-transform: uppercase;
   font-style: oblique;
 }
@@ -32,3 +33,5 @@ img{
    padding: 20px;
    margin: 20px 0px;
  }
+
+}
